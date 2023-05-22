@@ -1,1 +1,3 @@
 second-file text
+
+The new line for main branch
